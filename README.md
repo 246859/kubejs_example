@@ -14,7 +14,7 @@ tag:
 
 # KubeJS 模组脚本开发基础指南
 
-![](https://kubejs.com/favicon.svg)
+![](https://kubejs.com/img/logo/title.png)
 <!-- more -->
 ---
 
